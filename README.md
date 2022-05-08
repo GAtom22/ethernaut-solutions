@@ -15,5 +15,6 @@ npx hardhat test ./test/exercise-1/solution.js
 ## How to run
 
 1. Clone the repo
-2. Run `npm i`
-3. You're ready to go!
+2. [Install npx](https://www.npmjs.com/package/npx) if don't have it yet
+3. Run `npm i`
+4. You're ready to go!
