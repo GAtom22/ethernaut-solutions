@@ -11,3 +11,9 @@ npx hardhat test
 # To run a specific exercise solution, use this syntax:
 npx hardhat test ./test/exercise-1/solution.js
 ```
+
+## How to run
+
+1. Clone the repo
+2. Run `npm i`
+3. You're ready to go!
